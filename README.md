@@ -1,12 +1,37 @@
 # CachacaNER
 Named Entity Recognition Dataset for the Cachaça Drink
 
-Category                             & Tag <p>
-Drink Name                           & 
-Alcoholic Graduation                 & 
-Drink Classification                 & 
-Distillation Equipment               & 
-Storage Time                         & 
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Tag</th>
+  </tr>
+  <tr>
+    <td>Drink Name</td>
+    <td>NOME_BEBIDA</td>
+  </tr>
+  <tr>
+    <td>Alcoholic Graduation</td>
+    <td>GRADUACAO_ALCOOLICA</td>
+  </tr>
+  <tr>
+    <td>Drink Classification</td>
+    <td>CLASSIFICACAO_BEBIDA</td>
+  </tr>
+  <tr>
+    <td>Distillation Equipment</td>
+    <td>EQUIPAMENTO_DESTILACAO</td>
+  </tr>
+  <tr>
+    <td>Storage Time</td>
+    <td>TEMPO_ARMAZENAMENTO</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
 Storage Container                    & 
 Wood Type                            & 
 Sensory Characteristic - Color       & 
@@ -19,3 +44,4 @@ Location Name                        &
 Volume                               & 
 Time                                 & 
 Price                                & 
+</table>
