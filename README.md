@@ -79,7 +79,7 @@ The dataset containing the following seventeen categories of entities:
 </table>
 
 The CachacaNER dataset is available in IOB2 format, where a label starting with "B-" indicates that the token is the beginning of a named entity, "I-" indicates that the token is inside a named entity, and "O" indicates that the token does not pertain to any named entity. Named entities are assumed to be non-overlapping and not spanning more than one sentence.<p>
-The dataset has the following attributes: token, tag, sentence number, document number, starting and ending position of the token within the sentence, partition number for cross-validation experiments (10 partitions), and whether the item is part of the training or test set (70% train and 30% test).
+The dataset has the following attributes: token, tag, sentence number, document number, starting and ending position of the token within the sentence, partition number for cross-validation experiments (10 partitions), and whether the item is part of the training, validation or test set (70% train, 10% validation and 20% test).
 
 <b>Cite the dataset as:</b><p>
 Priscilla Silva, Arthur Franco, Thiago Santos, Mozar Brito, Denilson Pereira. CachacaNER: a Dataset for Named Entity Recognition in Texts about the Cachaça Beverage. Language Resources and Evaluation, 2023. DOI : 10.1007/s10579-023-09665-0
