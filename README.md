@@ -82,4 +82,4 @@ The CachacaNER dataset is available in IOB2 format, where a label starting with 
 The dataset has the following attributes: token, tag, sentence number, document number, starting and ending position of the token within the sentence, partition number for cross-validation experiments (10 partitions), and whether the item is part of the training or test set (70% train and 30% test).
 
 <b>Cite the dataset as:</b><p>
-Priscilla Silva, Arthur Franco, Thiago Santos, Mozar Brito, Denilson Pereira. CachacaNER: a Dataset for Named Entity Recognition in Texts about the Cachaça Drink. Submitted, 2022.
+Priscilla Silva, Arthur Franco, Thiago Santos, Mozar Brito, Denilson Pereira. CachacaNER: a Dataset for Named Entity Recognition in Texts about the Cachaça Beverage. Language Resources and Evaluation, 2023. DOI : 10.1007/s10579-023-09665-0
